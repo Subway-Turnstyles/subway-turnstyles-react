@@ -1,5 +1,5 @@
 import React from 'react';
-import MapContainer from '../MapContainer/MapContainer.jsx';
+import MapContainer from './MapContainer/MapContainer.jsx';
 
 export default class App extends React.Component{
   render() {
